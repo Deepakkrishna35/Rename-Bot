@@ -1,8 +1,5 @@
 class Translation(object):
-    START_TEXT = """ <b> Hi {} , \nI'm A Simple File Renamer+File To Video Converter Bot With Permanent Thumbnail And Custom Caption support!</b> \n
-
-<b>Developed By Team @DK_BOTx </b> \n 
-"""
+    START_TEXT = """👋 ʜᴇʟʟᴏ {} 🥰, \n\nɪ'ᴍ ᴀ sɪᴍᴘʟᴇ ʀᴇɴᴀᴍᴇʀ + ғɪʟᴇ ᴛᴏ ᴠɪᴅᴇᴏ ᴄᴏɴᴠᴇʀᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘᴇʀᴍᴇɴᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ ᴀɴᴅ ᴄᴏsᴛᴜᴍᴇ ᴄᴀᴘᴛɪᴏɴ sᴜᴘᴘᴏʀᴛ 🤩 \n\nsᴇɴᴅ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ ᴏʀ ᴠɪᴅᴇᴏ ᴛᴏ ᴜsɪɴɢ ᴍᴇ 📩"""
 
     BANNED_USER_TEXT = "Sorry!! But @DK_BOTx As Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @No_OnE_Kn0wS_Me For more Details.. " 
     DOWNLOAD_START = "<b>Downloading To My server !! Pls Wait</b>"
