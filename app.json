@@ -17,19 +17,19 @@
       "value": "ANYTHING"
     },
     "TG_BOT_TOKEN": {
-      "description": "Your bot token, as a string.",
+      "description": "CREATE A BOT USING @BotFather, AND GET THE TELEGRAM API TOKEN",
       "value": ""
     },
     "UPDATE_CHANNEL": {
-      "description": "For Force Subscribe. Paste your channel Username (without @).. Also Make The Bot Admin In That Channel!! ",
+      "description": "AN CHANNEL USERNAME WHICH YOU WANT TO USE AS AN FORCES SUB CHANNEL PUT IT WITHOUT @ . MAKE SURE BOT IS AN ADMIN IN THE CHANNEL",
       "value": ""
     },
     "APP_ID": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "GET THIS VALUE FROM https://my.telegram.org",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "GET THIS VALUE FROM https://my.telegram.org",
       "value": ""
     },
     "BANNED_USERS": {
