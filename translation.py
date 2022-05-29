@@ -21,8 +21,8 @@ class Translation(object):
 ➣ SERVER : <a href='https://dashboard.heroku.com/'>HEROKU</a>
 ➣ SOURCE : <a href='https://github.com/TitterBuck/CMGRENAMERBOT'>𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>
 </b>"""
-    HELP_USER = """Checkout The Available Commands Here \n\n If you Like Me Support Us @DK_BOTx❤️"""
-    RENAME_HELP = """Here are The Available Commands In Reanme \n\n\n▪️ <code>/rename</code> : Reply To An File/video With <code>/rename Filename.extension</code> For Renaming"""
-    C2V_HELP = """Here Are The Available Commands In File To Video \n\n\n ▪️<code>/c2v</code> : Reply To An File With /c2v To Convert It Into Video"""
-    THUMBNAIL_HELP = """Here Are The Available Commands In Custom Thumbnail \n\n\n ▪️ Send A Photo To Set The Custom Thumbnail \n▪️ <code>/showthumb</code> : For Checking The Current Thumbnail \n▪️<code>/delthumb</code> : For Deleting The Current Saved Thumbnail"""
-    CCAPTION_HELP = """Here Are The Available Commands In Custom Caption \n\n\n ▪️<code>/scaption</code> Use This Command To Save Your Custom Caption \n<b>Usage:</b> <code>/scaption your caption text</code> \n\n<b>[You Can Use</b> <code>{filename}</code> <b>For showing new file name in the caption]</b> """
+    HELP_USER = """<b>HERE IS THE HELP FOR MY COMMANDS 🤝</b>"""
+    RENAME_HELP = """<b>HERE IS THE AVAILABLE COMMAND FOR RENAME A FILE 📂 \n\nREPLAY TO AN FILE OR VIDEO WITH <code>/rename Filename.Extension</code> FOR RENAMING</b>"""
+    C2V_HELP = """<b>HERE IS THE AVAILABLE COMMAND FOR FILE TO VIDEO ⏮️ \n\nREPLAY TO AN FILE WITH <code>/c2v</code> TO CONVERT IT INTO VIDEO</b>"""
+    THUMBNAIL_HELP = """<b>HERE IS THE AVAILABLE COMMAND FOR CUSTOM THUMBNAIL 🔖 \n\n ➣ SENT A PHOTO TO SET THE COSTUME THUMBANAIL \n ➣ <code>/showthumb</code> : FOR SHOWING THE CURRENT THUMBANAIL  \n ➣ <code>/delthumb</code> : FOR DELETING THE CURRENT THUMBNAIL</b>"""
+    CCAPTION_HELP = """<b>HERE IS THE AVAILABLE COMMANDS FOR CUSTOM CAPTION 📋 \n\n ➣ <code>/scaption</code> : USE THIS COMMAND FOR SAVE YOUR CUSTOM CAPTION \n USAGE : <code>/scaption your caption text</code> \n\n [YOU CAN USE <code>{filename}</code> FOR SHOWING NEW FILE NAME IN THE CAPTION]</b>"""
