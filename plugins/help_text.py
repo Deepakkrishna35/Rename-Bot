@@ -68,7 +68,7 @@ async def help_user(bot, update):
                     InlineKeyboardButton('🏷️ CUSTOM CAPTION', callback_data = "ccaption")
                 ],
                 [
-                    InlineKeyboardButton('✒️ SOURCE', url='https://github.com/DKBOTx/FileRenamerBot')
+                    InlineKeyboardButton('✒️ SOURCE', url='https://github.com/TitterBuck/CMGRENAMERBOT')
                 ]
             ]
         )
@@ -102,11 +102,11 @@ async def start_me(bot, update):
                         InlineKeyboardButton("⚙️ HELP", callback_data = "ghelp")
                 ],
                 [
-                    InlineKeyboardButton('🗞️ UPDATES', url='https://t.me/dk_botx'),
-                    InlineKeyboardButton('📽️ MOVIES', url='https://t.me/dkbotxchats')
+                    InlineKeyboardButton('🗞️ UPDATES', url='https://t.me/Cinemagram_Links'),
+                    InlineKeyboardButton('📽️ MOVIES', url='https://t.me/+ImlrofNsB78yYjll')
                 ],
                 [
-                    InlineKeyboardButton('🛠️ DEVOLOPER', url='https://t.me/vloggerdeven_TG'),
+                    InlineKeyboardButton('🛠️ DEVOLOPER', url='https://t.me/TitterBuck'),
                     InlineKeyboardButton('📔 ABOUT', callback_data = "about")
                 ]
             ]
@@ -197,7 +197,7 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
                     InlineKeyboardButton('🏷️ CUSTOM CAPTION', callback_data = "ccaption")
                 ],
                 [
-                    InlineKeyboardButton('✒️ SOURCE', url='https://github.com/DKBOTx/FileRenamerBot')
+                    InlineKeyboardButton('✒️ SOURCE', url='https://github.com/TitterBuck/CMGRENAMERBOT')
                 ]
             ]
         )
