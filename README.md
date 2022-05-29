@@ -17,16 +17,19 @@
 
 [![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TitterBuck/CMGRENAMERBOT)
 
-# Required Strings :-
+## REQUIRED VARIABLES 
 
-* -> `TG_BOT_TOKEN`<br> **Your Bot Token Taken From [@BotFather](https://t.me/botfather)**
+`APP_ID`<br>**GET THIS VALUE FROM  [telegram.org](https://my.telegram.org/apps)**
 
-* -> `UPDATE_CHANNEL`<br> **An Channel Username Which You Want to Use As An ForceSub Channel Put It Without @**
+`API_HASH`<br>**GET THIS VALUE FROM  [telegram.org](https://my.telegram.org/apps)**
 
-* -> `APP_ID`__And__ `API_HASH`<br>**Get It From [Here](http://www.my.telegram.org) or [@UseTGXBot](http://www.telegram.dog/UseTGXBot)**
+`TG_BOT_TOKEN`<br> **CREATE A BOT USING [@BotFather](https://telegram.dog/BotFather), AND GET THE TELEGRAM API TOKEN**
 
-## Credits, and Thanks to Beloved Developers ;
+`UPDATE_CHANNEL`<br> **AN CHANNEL USERNAME WHICH YOU WANT TO USE AS AN FORCES SUB CHANNEL PUT IT WITHOUT @ . MAKE SURE BOT IS AN ADMIN IN THE CHANNEL**
 
-* [Base Repo Used](https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
-* [SpEcHlDe](https://telegram.dog/SpEcHlDe) For [AnydlBot](https://github.com/SpEcHiDe/AnyDLBot)
-* [Dan](https://github.com/delivrance) For This Mind Blowing [Library](https://github.com/pyrogram/pyrogram)
+
+## CREDITS AND THANKS TO DEVELOPERS
+
+- [x] [Base Repo Used](https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
+- [x] [SpEcHlDe](https://telegram.dog/SpEcHlDe) For [AnydlBot](https://github.com/SpEcHiDe/AnyDLBot)
+- [x] [Dan](https://github.com/delivrance) For This [Library](https://github.com/pyrogram/pyrogram)
