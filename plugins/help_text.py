@@ -43,13 +43,13 @@ async def help_user(bot, update):
         try:
             user = await bot.get_chat_member(update_channel, update.chat.id)
             if user.status == "kicked":
-               await update.reply_text(" Sorry, You're Banned")
+               await update.reply_text("SORRY, YOU'RE BANNED!")
                return
         except UserNotParticipant:
             await update.reply_text(
-                text="**Due To The Huge Traffic Only Channel Members Can Use This Bot Means You Need To Join The Below Mentioned Channel Before Using Me! **",
+                text="**DUE TO THE HUGE TRAFFIC ONLY CHANNEL MEMBERS CAN USE THIS BOT. YOU NEED TO JOIN THE BELLOW MENTIONED CHANNEL BEFORE USING ME!**",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="ᴊᴏɪɴ ᴍʏ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="🔰 JOIN CHANNEL 🔰", url=f"https://t.me/{update_channel}")]
               ])
             )
             return
@@ -77,20 +77,20 @@ async def help_user(bot, update):
 @Mai_bOTs.on_message(pyrogram.filters.command(["start"]))
 async def start_me(bot, update):
     if update.from_user.id in Config.BANNED_USERS:
-        await update.reply_text("You are Banned")
+        await update.reply_text("YOU'RE BANNED!")
         return
     update_channel = Config.UPDATE_CHANNEL
     if update_channel:
         try:
             user = await bot.get_chat_member(update_channel, update.chat.id)
             if user.status == "kicked":
-               await update.reply_text(" Sorry,You've Been Flooding Me So My Owner Removed You From Using Me If You Think It's An Error Contact : @Faris_TG")
+               await update.reply_text("SORRY, YOU'RE BEEN FLOODING ME. SO MY OWNER REMOVED YOU FROM USING ME. IF YOU THINK IT'S AN ERROR, CONTACT : @TitterBuck")
                return
         except UserNotParticipant:
             await update.reply_text(
-                text="**Due To The Huge Traffic Only Channel Members Can Use This Bot Means You Need To Join The Below Mentioned Channel Before Using Me! **",
+                text="**DUE TO THE HUGE TRAFFIC ONLY CHANNEL MEMBERS CAN USE THIS BOT. YOU NEED TO JOIN THE BELLOW MENTIONED CHANNEL BEFORE USING ME!**",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="ᴊᴏɪɴ ᴍʏ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="🔰 JOIN CHANNEL 🔰", url=f"https://t.me/{update_channel}")]
               ])
             )
             return
@@ -241,7 +241,7 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
         except:
             pass
         await query.message.edit_text(
-            text="<b>caption deleted successfully</b>",
+            text="<b>CAPTION DELETED SUCCESSFULLY</b>",
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup(
             [
