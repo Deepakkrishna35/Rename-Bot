@@ -1,9 +1,9 @@
 class Translation(object):
-    START_TEXT = """👋 ʜᴇʟʟᴏ {} 🥰, \n\nɪ'ᴍ ᴀ sɪᴍᴘʟᴇ ʀᴇɴᴀᴍᴇʀ + ғɪʟᴇ ᴛᴏ ᴠɪᴅᴇᴏ ᴄᴏɴᴠᴇʀᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘᴇʀᴍᴇɴᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ ᴀɴᴅ ᴄᴏsᴛᴜᴍᴇ ᴄᴀᴘᴛɪᴏɴ sᴜᴘᴘᴏʀᴛ 🤩 \n\nsᴇɴᴅ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ ᴏʀ ᴠɪᴅᴇᴏ ᴛᴏ ᴜsɪɴɢ ᴍᴇ 📩"""
+    START_TEXT = """<b>👋 HELLO {} 🥰, \n\nI'M A SIMPLE RENAMER + FILE TO VIDEO CONVERTER BOT WITH PERMENENT THUMBNAIL AND COSTUME CAPTION SUPPORT 🤩 \n\nSENT ANY TELEGRAM FILE OR VIDEO TO USE ME 📩</b>"""
 
-    BANNED_USER_TEXT = "Sorry!! But @DK_BOTx As Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @No_OnE_Kn0wS_Me For more Details.. " 
-    DOWNLOAD_START = "<b>Downloading To My server !! Pls Wait</b>"
-    UPLOAD_START = "<b>Downloading Completed Now I'm Uploading Into TeleGram</b>"
+    BANNED_USER_TEXT = "<b>SORRY! YOU ARE BANNED FROM USING THIS BOT 🚫. CONTACT @TitterBuck [ADMIN] FOR DETAILS...👨‍💻</b>" 
+    DOWNLOAD_START = "<b>📥 DOWNLOADING TO MY SERVER ▣▣▣□□ PLEASE WAIT 🕛</b>"
+    UPLOAD_START = "<b>✅ DOWNLOADING COMPLETED. 📤 UPLOADING TO TELEGRAM ▣▣▣□□</b>"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>Thank you for Using Me Support Our Channel @DK_BOTx ❤️</b>"
     SAVED_CUSTOM_THUMB_NAIL = "<b>thumbnail Saved ✅ This Is Permanent Until</b> /delthumb ❤"
     DEL_ETED_CUSTOM_THUMB_NAIL = "thumbnail cleared succesfully🤦"
