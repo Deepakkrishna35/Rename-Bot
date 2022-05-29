@@ -3,14 +3,14 @@
  
 <b>👋 Hello, I Am a Powerful Telegram File Rename Bot
 
-➤ MY FEATURES 
+➤ MY FEATURES
 
-▪ Rename Telegram Files Into Any Formats 
-▪ Convert Files into Video
-▪ Supports Custom Caption/ Permanent Thumbnail
-▪ Force Subscribe To Targeted Chat
+- [x] Rename Telegram Files Into Any Formats 
+- [x] Convert Files into Video
+- [x] Supports Custom Caption/ Permanent Thumbnail
+- [x] Force Subscribe To Targeted Chat
 
-->**Updates [Here](https://telegram.dog/dk_botx)** 
+➤ **UPDATES : [Click Here](https://t.me/CINEMAGRAM_LINKS)** 
 
 # Deploy straight to Heroku!
 
