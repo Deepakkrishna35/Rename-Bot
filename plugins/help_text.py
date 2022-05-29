@@ -99,7 +99,7 @@ async def start_me(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                        InlineKeyboardButton("Help", callback_data = "ghelp")
+                        InlineKeyboardButton("⚙️ HELP", callback_data = "ghelp")
                 ],
                 [
                     InlineKeyboardButton('🗞️ UPDATES', url='https://t.me/dk_botx'),
@@ -197,7 +197,7 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
                     InlineKeyboardButton('🏷️ CUSTOM CAPTION', callback_data = "ccaption")
                 ],
                 [
-                    InlineKeyboardButton('📔 ABOUT', callback_data = "about")
+                    InlineKeyboardButton('✒️ SOURCE', url='https://github.com/DKBOTx/FileRenamerBot')
                 ]
             ]
         )
