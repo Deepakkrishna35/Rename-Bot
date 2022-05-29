@@ -68,7 +68,7 @@ async def help_user(bot, update):
                     InlineKeyboardButton('🏷️ CUSTOM CAPTION', callback_data = "ccaption")
                 ],
                 [
-                    InlineKeyboardButton('📔 ABOUT', callback_data = "about")
+                    InlineKeyboardButton('✒️ SOURCE', url='https://github.com/DKBOTx/FileRenamerBot')
                 ]
             ]
         )
@@ -106,8 +106,8 @@ async def start_me(bot, update):
                     InlineKeyboardButton('📽️ MOVIES', url='https://t.me/dkbotxchats')
                 ],
                 [
-                    InlineKeyboardButton(🛠️ DEVELOPER', url='https://t.me/vloggerdeven_TG'),
-                    InlineKeyboardButton('✒️ SOURCE', url='https://github.com/DKBOTx/FileRenamerBot')
+                    InlineKeyboardButton('🛠️ DEVOLOPER', url='https://t.me/vloggerdeven_TG'),
+                    InlineKeyboardButton('📔 ABOUT', callback_data = "about")
                 ]
             ]
         ),
