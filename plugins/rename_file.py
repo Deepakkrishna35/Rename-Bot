@@ -40,7 +40,7 @@ from database.db import *
 async def set_caption(bot, update):
     if len(update.command) == 1:
         await update.reply_text(
-            "Custom Caption \n\n you can use this command to set your own caption  \n\n Usage : /scaption Your caption text \n\n note : For current file name use : <code>{filename}</code>", 
+            "HERE IS THE AVAILABLE COMMAND FOR COSTUME THUMBNAIL 🔖 \n\n ➣ SENT A PHOTO TO SET THE COSTUME THUMBANAIL \n ➣ <code>/showthumb</code> : FOR SHOWING THE CURRENT THUMBANAIL  \n ➣ <code>/delthumb</code> : FOR DELETING THE CURRENT THUMBNAIL", 
             quote = True, 
             reply_markup=InlineKeyboardMarkup(
             [
