@@ -1,5 +1,4 @@
-# - CMG RENAMER BOT
-
+# CMG RENAMER BOT
  
 <b>👋 Hello, I Am a Powerful Telegram File Rename Bot
 
