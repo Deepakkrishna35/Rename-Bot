@@ -178,7 +178,7 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
         await query.message.delete()
         try:
             await query.message.reply_text(
-                text = "<b>Process Cancelled</b>"
+                text = "<b>PROCESS CANCELLED🚫</b>"
      )
         except:
             pass 
@@ -208,9 +208,9 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
                 caption = await get_caption(query.from_user.id)
                 c_text = caption.caption
              except:
-                c_text = "Sorry but you haven't added any caption yet please set your caption through /scaption command" 
+                c_text = "<b>SORRY BUT YOU HAVEN'T ADDED ANY CAPTION YET. PLEASE SET YOUR CAPTION THROUGH /scaption COMMAND</b>" 
              await query.message.edit(
-                  text=f"<b>Your Custom Caption:</b> \n\n{c_text} ",
+                  text=f"<b>YOUR CUSTOM CAPTION :</b> \n\n{c_text} ",
                   parse_mode="html", 
                   disable_web_page_preview=True, 
                   reply_markup=InlineKeyboardMarkup(
