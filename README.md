@@ -1,4 +1,4 @@
-# - DKBOTx RENAMER BOT
+# - CMG RENAMER BOT
 
  
 ->**An Multi purpose Bot Which Can :-**
