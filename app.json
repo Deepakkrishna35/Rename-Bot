@@ -33,7 +33,7 @@
       "value": ""
     },
     "BANNED_USERS": {
-      "description": "Id's Of Users Which You don't Want To Use The Bot..",
+      "description": "ID'S OF USERS WHICH YOU DON'T WANT TO USE THE BOT",
       "value": "",
       "required": false
     },
