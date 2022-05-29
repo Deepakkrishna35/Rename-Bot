@@ -13,9 +13,9 @@
 
 ## [UPDATES](https://t.me/CINEMAGRAM_LINKS)
 
-# Deploy straight to Heroku!
+# DEPLOYE STRAIGHT TO HEROKU!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TitterBuck/CMGRENAMERBOT)
+[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TitterBuck/CMGRENAMERBOT)
 
 # Required Strings :-
 
