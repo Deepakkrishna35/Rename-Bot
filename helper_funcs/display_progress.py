@@ -21,7 +21,7 @@ async def progress_for_pyrogram(current, total, ud_type, message, start):
     reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("❌ Cᴀɴᴄᴇʟ", callback_data = "closeme")
+                    InlineKeyboardButton("❌ CANCEL", callback_data = "closeme")
                 ]
             ]
         )
@@ -38,12 +38,12 @@ async def progress_for_pyrogram(current, total, ud_type, message, start):
         elapsed_time = TimeFormatter(milliseconds=elapsed_time)
         estimated_total_time = TimeFormatter(milliseconds=estimated_total_time)
 
-        progress = "[{0}{1}] \n <b>📊Percentage:</b> {2}%\n".format(
+        progress = "[{0}{1}] \n <b>📊PERCENTAGE:</b> {2}%\n".format(
             ''.join(["■" for i in range(math.floor(percentage / 5))]),
             ''.join(["□" for i in range(20 - math.floor(percentage / 5))]),
             round(percentage, 2))
 
-        tmp = progress + "<b>✅Completed:</b>{0} \n<b>📁Total Size:</b> {1}\n<b>🚀Speed:</b> {2}/s\n<b>⌚️ETA:</b> {3}\n".format(
+        tmp = progress + "<b>✅COMPLETED:</b>{0} \n<b>📁TOTAL SIZE:</b> {1}\n<b>🚀SPEED:</b> {2}/s\n<b>⌚️ETA:</b> {3}\n".format(
             humanbytes(current),
             humanbytes(total),
             humanbytes(speed),
