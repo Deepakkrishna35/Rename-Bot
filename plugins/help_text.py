@@ -74,7 +74,7 @@ async def help_user(bot, update):
                     InlineKeyboardButton('⏪️ BACK', callback_data = "ghelp")
                 ]
             ]
-        )
+        )   
     )       
 
 @Mai_bOTs.on_message(pyrogram.filters.command(["start"]))
@@ -206,7 +206,7 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
                     InlineKeyboardButton('⏪️ BACK', callback_data = "ghelp")
                 ]
             ]     
-        )
+        )   
     )       
 
     elif data =="shw_caption":
