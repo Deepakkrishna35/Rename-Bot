@@ -241,7 +241,7 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
         except:
             pass
         await query.message.edit_text(
-            text="<b>CAPTION DELETED SUCCESSFULLY</b>",
+            text="<b>CAPTION DELETED SUCCESSFULLY✅️</b>",
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup(
             [
