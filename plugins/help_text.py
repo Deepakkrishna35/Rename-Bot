@@ -190,7 +190,7 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
             text=Translation.HELP_USER,
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup(
-            [
+            [   
                 [
                     InlineKeyboardButton('📝 RENAME', callback_data = "rnme"),
                     InlineKeyboardButton('📂 FILE TO VIDEO', callback_data = "f2v")
@@ -205,7 +205,7 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
                 [
                     InlineKeyboardButton('⏪️ BACK', callback_data = "ghelp")
                 ]
-           ]
+            ]     
         )
     )       
 
