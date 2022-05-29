@@ -43,14 +43,14 @@ async def convert_to_video(bot, update):
         try:
             user = await bot.get_chat_member(update_channel, update.chat.id)
             if user.status == "kicked":
-               await update.reply_text(" Sorry, You are **B A N N E D**")
+               await update.reply_text("**SORRT, YOU HAVE BEEN BANNED FROM USING ME!**")
                return
         except UserNotParticipant:
-            #await update.reply_text(f"Join @{update_channel} To Use Me")
+            #await update.reply_text(f"JOIN @{update_channel} TO USE ME!")
             await update.reply_text(
-                text="**Please Join My Update Channel Before Using Me..**",
+                text="**PLEASE JOIN MY UPDATE CHANNEL BEFORE USING ME...!**",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="ᴊᴏɪɴ ᴍʏ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="🔰 JOIN CHANNEL 🔰", url=f"https://t.me/{update_channel}")]
               ])
             )
             return  
