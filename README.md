@@ -13,7 +13,7 @@
 
 ## [UPDATES](https://t.me/CINEMAGRAM_LINKS)
 
-# DEPLOYE STRAIGHT TO HEROKU!
+## DEPLOYE STRAIGHT TO HEROKU!
 
 [![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TitterBuck/CMGRENAMERBOT)
 
