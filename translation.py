@@ -14,12 +14,17 @@ class Translation(object):
     NO_THUMB_FOUND = "<b>NO THUMBANAIL FOUND 🧐. PLEASE SENT ME A IMAGE FOR YOUR PERMENENT THUMBANAIL 📩</b>"
     IFLONG_FILE_NAME = """<b>😳 PLEASE DECREASE THE NUMBER OF LETTERS 🤯</b>"""
     ABOUT_ME = """<b>
-➣ MY NAME : CMG RENAME BOT
+➣ MY NAME : <a href='t.me/CMG_Rename_Bot'>CMG RENAME BOT</a>
+
 ➣ CREATOR : <a href='https://t.me/TitterBuck'>☬ 𝔻𝔼𝔼ℙ𝔸𝕂 ☬</a>
+
 ➣ LANGUAGE : <a href='https://www.python.org/'>PYTHON-3</a>
+
 ➣ LIBRARY : <a href='https://docs.pyrogram.org/'>PYROGRAM</a>
+
 ➣ SERVER : <a href='https://dashboard.heroku.com/'>HEROKU</a>
-➣ SOURCE : <a href='https://github.com/TitterBuck/CMGRENAMERBOT'>𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>
+
+➣ SOURCE : <a href='https://github.com/TitterBuck/CMGRENAMERBOT'>CLICK HERE</a>
 </b>"""
     HELP_USER = """<b>HERE IS THE HELP FOR MY COMMANDS 🤝</b>"""
     RENAME_HELP = """<b>HERE IS THE AVAILABLE COMMAND FOR RENAME A FILE 📂 \n\nREPLAY TO AN FILE OR VIDEO WITH <code>/rename Filename.Extension</code> FOR RENAMING</b>"""
