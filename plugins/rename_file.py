@@ -45,10 +45,10 @@ async def set_caption(bot, update):
             reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('sʜᴏᴡ ᴄᴜʀʀᴇɴᴛ ᴄᴀᴘᴛɪᴏɴ', callback_data = "shw_caption")      
+                    InlineKeyboardButton('📃 SHOW CURRENT CAPTION', callback_data = "shw_caption")      
                 ],
                 [
-                    InlineKeyboardButton('ᴅᴇʟᴇᴛᴇ ᴄᴀᴘᴛɪᴏɴ', callback_data = "d_caption")
+                    InlineKeyboardButton('🚮 DELETE CAPTION', callback_data = "d_caption")
                 ]
             ]
         ) 
@@ -66,7 +66,7 @@ async def rename_doc(bot, update):
         try:
             user = await bot.get_chat_member(update_channel, update.chat.id)
             if user.status == "kicked":
-               await update.reply_text(" Sorry,You've Been Banned From Using Meh!")
+               await update.reply_text("SORRY, YOU HAVE BEEN BANNED FOR USING ME!")
                return
         except UserNotParticipant:
             await update.reply_text(
