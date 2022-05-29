@@ -2,14 +2,14 @@
   <b>CMG RENAME BOT</b>
 </h1>
  
-<b>👋 Hello, I Am a Powerful Telegram File Rename Bot
+<b>👋 HELLO DUDE..., I AM A POWERFUL TELEGRAM RENAMER BOT 🤖
 
 ## MY FEATURES
 
-- [x] Rename Telegram Files Into Any Formats 
-- [x] Convert Files into Video
-- [x] Supports Custom Caption/ Permanent Thumbnail
-- [x] Force Subscribe To Targeted Chat
+- [x] RENAME TELEGRAM FILE INTO ANY FORMATS
+- [x] CONVERT FILES INTO VIDEOS 
+- [x] SUPPORT CUSTOM CAPTION / PERMANENT THUMBNAIL 
+- [x] FORCE SUBSCRIBE FEATURE
 
 ## [UPDATES](https://t.me/CINEMAGRAM_LINKS)
 
