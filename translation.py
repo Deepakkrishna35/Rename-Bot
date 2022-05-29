@@ -13,7 +13,14 @@ class Translation(object):
     CUSTOM_CAPTION_UL_FILE = " "
     NO_THUMB_FOUND = "<b>NO THUMBANAIL FOUND 🧐. PLEASE SENT ME A IMAGE FOR YOUR PERMENENT THUMBANAIL 📩</b>"
     IFLONG_FILE_NAME = """<b>😳 PLEASE DECREASE THE NUMBER OF LETTERS 🤯</b>"""
-    ABOUT_ME = """<b>Meh : \n An Telegram File Renamer Bot Which Can Rename A Telegram Files. \n You Can Set Permanent Thumbnail For The File So You Don't Have To Send Custom Thumbs All The Time.\n \n i can also convert files into videos \n My Devoloper @vloggerdeven_TG</b>"""
+    ABOUT_ME = """<b>
+➣ MY NAME : CMG RENAME BOT
+➣ CREATOR : <a href='https://t.me/TitterBuck'>☬ 𝔻𝔼𝔼ℙ𝔸𝕂 ☬</a>
+➣ LANGUAGE : <a href='https://www.python.org/'>PYTHON-3</a>
+➣ LIBRARY : <a href='https://docs.pyrogram.org/'>PYROGRAM</a>
+➣ SERVER : <a href='https://dashboard.heroku.com/'>HEROKU</a>
+➣ SOURCE : <a href='https://github.com/TitterBuck/CMGRENAMERBOT'>𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>
+</b>"""
     HELP_USER = """Checkout The Available Commands Here \n\n If you Like Me Support Us @DK_BOTx❤️"""
     RENAME_HELP = """Here are The Available Commands In Reanme \n\n\n▪️ <code>/rename</code> : Reply To An File/video With <code>/rename Filename.extension</code> For Renaming"""
     C2V_HELP = """Here Are The Available Commands In File To Video \n\n\n ▪️<code>/c2v</code> : Reply To An File With /c2v To Convert It Into Video"""
