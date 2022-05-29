@@ -1,15 +1,17 @@
-# CMG RENAMER BOT
+<h1 align="left">
+  <b>CMG RENAME BOT</b>
+</h1>
  
 <b>👋 Hello, I Am a Powerful Telegram File Rename Bot
 
-➤ MY FEATURES
+## MY FEATURES
 
 - [x] Rename Telegram Files Into Any Formats 
 - [x] Convert Files into Video
 - [x] Supports Custom Caption/ Permanent Thumbnail
 - [x] Force Subscribe To Targeted Chat
 
-➤ **UPDATES : [Click Here](https://t.me/CINEMAGRAM_LINKS)** 
+## [UPDATES](https://t.me/CINEMAGRAM_LINKS)
 
 # Deploy straight to Heroku!
 
