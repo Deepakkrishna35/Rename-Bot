@@ -1,11 +1,14 @@
 # - CMG RENAMER BOT
 
  
-<b>An Multi purpose Bot Which Can
-* ✅Rename Telegram Files Into Any Formats
-* ✅Convert Files into Video
-* ✅Supports Custom Caption/ Permanent Thumbnail
-* ✅Force Subscribe To Targeted Chat
+<b>👋 Hello, I Am a Powerful Telegram File Rename Bot
+
+➤ MY FEATURES 
+
+▪ Rename Telegram Files Into Any Formats 
+▪ Convert Files into Video
+▪ Supports Custom Caption/ Permanent Thumbnail
+▪ Force Subscribe To Targeted Chat
 
 ->**Updates [Here](https://telegram.dog/dk_botx)** 
 
