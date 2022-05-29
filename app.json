@@ -1,5 +1,5 @@
 {
-  "name": "DKBOTx Renamer Bot",
+  "name": "CMGRENAMERBOT",
   "description": "Telegram's best Open Source Rename Bot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -8,8 +8,8 @@
     "source",
     "Rename"
   ],
-  "success_url": "https://t.me/dk_botx",
-  "website": "https://github.com/DKBOTx",
+  "success_url": "https://github.com/TitterBuck/CMGRENAMERBOT",
+  "website": "https://github.com/TitterBuck/CMGRENAMERBOT",
   "repository": "https://github.com/TitterBuck/CMGRENAMERBOT",
   "env": {
     "WEBHOOK": {
