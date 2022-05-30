@@ -68,7 +68,7 @@ async def help_user(bot, update):
                     InlineKeyboardButton('🏷️ CUSTOM CAPTION', callback_data = "ccaption")
                 ],
                 [
-                    InlineKeyboardButton('⏪️ BACK', callback_data = "ghelp")
+                    InlineKeyboardButton('👨‍💻 SOURCE', url='https://github.com/TitterBuck/CMGRENAMERBOT')
                 ]
             ]
         )   
@@ -197,7 +197,7 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
                     InlineKeyboardButton('🏷️ CUSTOM CAPTION', callback_data = "ccaption")
                 ],
                 [
-                    InlineKeyboardButton('⏪️ BACK', callback_data = "ghelp")
+                    InlineKeyboardButton('👨‍💻 SOURCE', url='https://github.com/TitterBuck/CMGRENAMERBOT')
                 ]
             ]     
         )   
