@@ -7,9 +7,9 @@ class Config(object):
     APP_ID = 8827228
     API_HASH = "db66c22b8e630b12cd0b3823c610b3c2"
     # Update channel for Force Subscribe
-    UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "")
+    UPDATE_CHANNEL = -1001733173292
     # log channel
-    #LOG_CHANNEL = os.environ.get("LOG_CHANNEL", "")
+    #LOG_CHANNEL = -1001861160135
     # Get these values from my.telegram.org
     CHAT_ID = os.environ.get("CHAT_ID", "")
     # Array to store users who are authorized to use the bot
@@ -36,7 +36,7 @@ class Config(object):
     # set timeout for subprocess
     PROCESS_MAX_TIMEOUT = 3600
     # watermark file
-    DEF_WATER_MARK_FILE = ""
+    DEF_WATER_MARK_FILE = "[CMG] "
     # Database url
     DB_URI = os.environ.get("DATABASE_URL", "")
     
