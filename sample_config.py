@@ -7,7 +7,7 @@ class Config(object):
     APP_ID = 8827228
     API_HASH = "db66c22b8e630b12cd0b3823c610b3c2"
     # Update channel for Force Subscribe
-    UPDATE_CHANNEL = -1001733173292
+    UPDATE_CHANNEL = -1001797005272
     # log channel
     #LOG_CHANNEL = -1001861160135
     # Get these values from my.telegram.org
